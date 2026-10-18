@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build cache and local distribution artifacts
+build/
+dist/
+dist_new/
+
+# System & IDE files
+.codegraph/
+.omo/
+.idea/
+.vscode/
+*.log
+
+# Defensive: prior Android port (removed 2026-10-15)
+android/
